@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "edition": "ts",
+  "version": "0.1.12",
+  "sourceCommit": "bc10d1e2d5d4cc7064152de422889cb46a730ff0",
+  "rustTargets": [],
+  "uiSha256": "976153aa27c5fa724bb5201d4395db6ab967d8cac46a3dfcbb7665b82394086c",
+  "files": {
+    ".gitattributes": "b6c0e44e0d6a8e327aa7fad89aec297be73f4f334b55f9c62a977968d2b85f69",
+    ".gitignore": "2a9c0b4eb437ee667f0d964e66c8e3b20a624aa2b1535012e125eaa989c90421",
+    "LICENSE": "575a831ad2debc466a05a542341e24a8866cfe88eca843a8379a11c05838d769",
+    "README.md": "3b8a7602ad096d306af1edd1ce0d54c913379b6ad41f1a9577b7a448ab4a93d5",
+    "THIRD_PARTY_NOTICES.md": "a6f5e1bf12cc72f7a8735225ba08bfd01331289dd6a3e16caaae551e903b74b8",
+    "activity.ts": "44413815b7d54c91c0c0d72a18d9e0b96504625dbfc70650aa6c1e43e08fb359",
+    "core.ts": "1ff437bc111cbd3fe4de5232b57db26be758fa08bf5b512007a98b8734da16d9",
+    "data/activity/LICENSE": "c06cba99d134a42603922c75648b253bd33335b07af16e8b36a51b0fb234fadb",
+    "data/activity/data.ts": "b830f1cab7f1da74ef0225e59294807330156a719eacd282fe4e649666edb36b",
+    "data/activity/frames.json": "3a8357f11be74bf5120b7aef37539dc1116514718a745918475dfcc5d49b59e2",
+    "data/activity/phrases.json": "59bec6baa857782fce9d893f9006c2e6ff4ce343c06f23406afc79b909159ff0",
+    "index.ts": "974d98e76f7af02805a5d6766e5fb66164be7b929c61c4f32c13bea17fe47aab",
+    "package.json": "268a2065d7d354d9bd223f24abcc568df8bfd6bb3cf3207c534a9a236106ec89",
+    "python-core.ts": "442139956d16e59572f10b83fa62f8809c72e36188d43414a6bbe349cc904806",
+    "rendering.ts": "50a1bcc7a08e62eaebbb299845ebe2751842ffa66ca8afa6b64da9cc0e5e79d2",
+    "ui.ts": "976153aa27c5fa724bb5201d4395db6ab967d8cac46a3dfcbb7665b82394086c"
+  }
+}
